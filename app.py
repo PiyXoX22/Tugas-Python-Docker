@@ -1,7 +1,7 @@
 import streamlit as st
 import math
 import periodictable as pt
-#title senyawa kimia
+#title senyawa kimias
 st.title("🧪 Smart Chemical Builder (PRO)")
 st.write("✔ Auto valensi • ✔ Nama senyawa • ✔ Prediksi reaksi dasar")
 
